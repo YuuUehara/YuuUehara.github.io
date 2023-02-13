@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>净善的遐歌</title>
+        <link>https://YuuUehara.github.io/</link>
+        <description>可能是用来高强度发电的地方</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 13 Feb 2023 16:17:24 &#43;0900</lastBuildDate>
+            <atom:link href="https://YuuUehara.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>又重新把blog搭起来了……</title>
+    <link>https://YuuUehara.github.io/posts/first_post/</link>
+    <pubDate>Mon, 13 Feb 2023 16:17:24 &#43;0900</pubDate>
+    <author>Yuugure</author>
+    <guid>https://YuuUehara.github.io/posts/first_post/</guid>
+    <description><![CDATA[虽说自己也想着是时候重新开始写了…… 但是感觉内容更可能是高强度发电，并没有什么技术相关的东西会被我写到。 倒不如说自己也搞不太清楚到底该写什么]]></description>
+</item>
+</channel>
+</rss>
