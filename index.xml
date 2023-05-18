@@ -3,9 +3,17 @@
         <title>净善的遐歌</title>
         <link>https://YuuUehara.github.io/</link>
         <description>可能是用来高强度发电的地方</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 13 May 2023 15:26:01 &#43;0900</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 May 2023 09:08:52 &#43;0900</lastBuildDate>
             <atom:link href="https://YuuUehara.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>喜欢计算机体系结构？</title>
+    <link>https://YuuUehara.github.io/posts/architecture/</link>
+    <pubDate>Thu, 18 May 2023 09:08:52 &#43;0900</pubDate>
+    <author>Yuugure</author>
+    <guid>https://YuuUehara.github.io/posts/architecture/</guid>
+    <description><![CDATA[<p>这博客还有写课程笔记的一天？</p>]]></description>
+</item>
+<item>
     <title>好久不见</title>
     <link>https://YuuUehara.github.io/posts/howlongnosee/</link>
     <pubDate>Sat, 13 May 2023 15:26:01 &#43;0900</pubDate>
